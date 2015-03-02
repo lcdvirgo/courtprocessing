@@ -1,0 +1,96 @@
+/***************************/
+/*****  Custom Styles  *****/
+/***************************/
+
+
+
+/*******  Typography  ******/
+
+h1, h2, h3, h4, h5 {
+	font-family:
+	}
+	
+h1 {
+
+	}
+	
+h2 {
+
+	}	
+		
+h3 {
+
+	}
+	
+h4 {
+
+	}	
+	
+h5 {
+
+	}
+	
+p {
+	
+	}
+	
+	
+
+/********  General  ********/
+
+img, video {
+	max-width: 100%;
+	height: auto;
+	}
+	
+.container {
+	padding: 30px 15px;
+	}
+	
+.container:last-of-type {
+	padding-bottom: 0px;
+	}
+	
+.navbar .container {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	}
+	
+.container-full .container {
+	padding: 50px 15px;
+	}
+	
+.jumbotron {
+	margin-bottom: 0px;
+	}
+	
+.jumbotron .container {
+	padding-top: 0px;
+	}
+	
+	
+	
+/*****  Custom Styles  *****/	
+
+.btn-primary {
+	background-color: #333333;
+	border-color: #999999;
+	}
+	
+.btn-primary:hover {
+	background-color: #666666;
+	border-color: #999999;
+	}
+	
+
+
+/******  Section One  ******/
+
+.section-one {
+	background: url('../images/bg.gif') repeat;
+	}
+	
+.section-one h1, .section-one h2, .section-one h3, 
+.section-one h5, .section-one h4, .section-one p {
+	color: #ffffff;
+	}
